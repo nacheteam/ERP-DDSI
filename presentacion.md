@@ -33,6 +33,72 @@ colorlinks: true
 
 --------------------------------------------------------------------------------
 
+# Sitios web
+
+\centering
+\vspace{2cm}
+\hspace{-5cm}
+\includegraphics[scale=0.15]{./Imagenes/sitios_web.png}
+
+- Creador de sitios web.  
+- Comercio electrónico.  
+- Blog.  
+- Foro.  
+- Slides.  
+- Chat en directo.
+
+--------------------------------------------------------------------------------
+
+# Ventas
+
+\centering
+\vspace{2cm}
+\hspace{-5cm}
+\includegraphics[scale=0.15]{./Imagenes/ventas.png}
+
+- Ventas.  
+- CRM.  
+- Facturación.  
+- Punto de venta.  
+- Suscripciones.  
+- Firmar.  
+
+--------------------------------------------------------------------------------
+
+# Operaciones  
+
+\centering
+\vspace{2.5cm}
+\hspace{-5cm}
+\includegraphics[scale=0.15]{./Imagenes/operaciones.png}  
+
+- Contabilidad.  
+- Proyecto.  
+- Recursos humanos.  
+- Inventario.  
+- Compra.  
+- Fabricación.  
+- Servicio de asistencia.  
+
+--------------------------------------------------------------------------------
+
+# Herramientas de productividad  
+
+\centering
+\vspace{2.5cm}
+\hspace{-5cm}
+\includegraphics[scale=0.15]{./Imagenes/productividad.png}  
+
+- Comunicación.  
+- Hoja de horas.  
+- Marketing electrónico.  
+- Eventos.  
+- Encuestas.  
+- Citas.  
+- Automatización de marketing.
+
+--------------------------------------------------------------------------------
+
 ## Ventajas e inconvenientes del sistema  
 
 --------------------------------------------------------------------------------
