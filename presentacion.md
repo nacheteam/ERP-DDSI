@@ -145,7 +145,19 @@ colorlinks: true
 
 --------------------------------------------------------------------------------
 
-## Ventajas e inconvenientes del sistema  
+## Ventajas del sistema  
+
+- Soporta multiples SO.
+- Interfaz web.
+- Baja especializacion.
+- Bien documentada.
+
+--------------------------------------------------------------------------------
+
+## Inconvenientes del sistema  
+
+- No es gratuito.
+- Aplicaciones muy rigidas.
 
 --------------------------------------------------------------------------------
 
