@@ -82,7 +82,7 @@ Las soluciones que Odoo ha aportado son:
 - Odoo ha desarrolladado también un proceso automático de login para los trabajadores.  
 - Integra otros sistemas como SAP, CERES y WMS para tener todas las ventajas posibles.  
 - Sincronización especial con WMS para tener control del inventario en tiempo real.  
-- Integración en dos sentidos con SAP para exportar reportes desde Odoo.### Descripción de la instalación
+- Integración en dos sentidos con SAP para exportar reportes desde Odoo.###	Descripción de la instalación
 
 El software Odoo ofrece muchas ventajas a la hora de instalar.
 En primer lugar el programa tiene una interfaz en linea que es completamente funcional y
@@ -94,7 +94,7 @@ Tienen soporte para todas las plataformas a modo de ejemplo ilustraremos la inst
 el SO ubuntu.
 
 ````
-wget -O - https://nightly.odoo.com/odoo.key | apt-key add -
+wget -O - https://nightly.odoo.com/odoo.key | sudo apt-key add -
 echo "deb http://nightly.odoo.com/10.0/nightly/deb/ ./" >> /etc/apt/sources.list.d/odoo.list
 apt-get update && apt-get install odoo
 ````
