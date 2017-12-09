@@ -100,3 +100,17 @@ wget -O - https://nightly.odoo.com/odoo.key | apt-key add -
 echo "deb http://nightly.odoo.com/10.0/nightly/deb/ ./" >> /etc/apt/sources.list.d/odoo.list
 apt-get update && apt-get install odoo
 ````
+
+### Funcionalidad que ofrece
+
+Las funcionalidades mas atractivas son:
+
+-Chat de empresa
+
+-Calendario conjunto
+
+-Contactos de empresa
+
+-CRM
+
+-Aplicaciones
