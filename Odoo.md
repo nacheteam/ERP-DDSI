@@ -103,14 +103,25 @@ apt-get update && apt-get install odoo
 
 ### Funcionalidad que ofrece
 
-Las funcionalidades mas atractivas son:
+Las funcionalidades de la version basica son:
 
 -Chat de empresa
 
+Es un chat donde contactar con los distintos usuarios se pueden crear canales
+para toda la empresa o para subconjuntos de la misma.
+
 -Calendario conjunto
+
+Calendario de acceso a todos los integrantes de la empresa para senalar eventos importantes
 
 -Contactos de empresa
 
+Datos de contacto de empresas y clientes. Es importante destacar que por defecto el programa incluye una gran agenda.
+
 -CRM
 
--Aplicaciones
+Funcionalidad que permite planificar promociones y preveer su impacto.
+
+-Inventario
+
+Aplicacion basica de inventariado.
