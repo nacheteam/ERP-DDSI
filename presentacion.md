@@ -21,7 +21,7 @@ colorlinks: true
 
 --------------------------------------------------------------------------------
 
-## Introducción 
+# Introducción
 
 \centering
 \vspace{2cm}
@@ -29,7 +29,7 @@ colorlinks: true
 \includegraphics[scale=0.15]{./Imagenes/logo-odoo.png}
 
 -  Suite de aplicaciones de código abierto para empresas (ERP) que cubre:  
-	*  CRM  
+	* CRM  
 	* E-comercio  
 	* Contabilidad  
 	* Inventario  
@@ -41,11 +41,11 @@ colorlinks: true
 
 --------------------------------------------------------------------------------
 
-## Nota histórica
+# Nota histórica
 
 \centering
 \vspace{3cm}
-\hspace{-9.2~~~~cm}
+\hspace{-9.2cm}
 \includegraphics[scale=0.35]{./Imagenes/tabla.png}
 
 - Premio Deloitte por ser la compañía con crecimiento más rápido en Bélgica (crecimiento de 1549% en 5 años). Año 2013.  
@@ -54,25 +54,28 @@ colorlinks: true
 
 --------------------------------------------------------------------------------
 
-## Descripción de la instalación  
+# Descripción de la instalación  
 
-- En primer lugar se anade la clave
+- En primer lugar se añade la clave.
 
 ![](./Imagenes/clave.png)
+
 --------------------------------------------------------------------------------
 
-## Descripción de la instalación  
+# Descripción de la instalación  
 
-- A continuacion se anade el repositorio
+- A continuación se añade el repositorio.
 
 ![](./Imagenes/repositorio.png)
+
 --------------------------------------------------------------------------------
 
-## Descripción de la instalación  
+# Descripción de la instalación  
 
-- Por ultimo dejamos que apt-get haga su magia
+- Por último dejamos que apt-get haga su magia.
 
 ![](./Imagenes/apt-get.png)
+
 --------------------------------------------------------------------------------
 
 ## Funcionalidad  
@@ -145,19 +148,19 @@ colorlinks: true
 
 --------------------------------------------------------------------------------
 
-## Ventajas del sistema  
+# Ventajas del sistema  
 
 - Soporta multiples SO.
 - Interfaz web.
-- Baja especializacion.
-- Bien documentada.
+- Baja especialización.
+- Bien documentado.
 
 --------------------------------------------------------------------------------
 
-## Inconvenientes del sistema  
+# Inconvenientes del sistema  
 
 - No es gratuito.
-- Aplicaciones muy rigidas.
+- Aplicaciones muy rígidas.
 
 --------------------------------------------------------------------------------
 
