@@ -45,7 +45,7 @@ colorlinks: true
 
 \centering
 \vspace{3cm}
-\hspace{-9.2cm}
+\hspace{-9.2~~~~cm}
 \includegraphics[scale=0.35]{./Imagenes/tabla.png}
 
 - Premio Deloitte por ser la compañía con crecimiento más rápido en Bélgica (crecimiento de 1549% en 5 años). Año 2013.  
