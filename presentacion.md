@@ -21,7 +21,36 @@ colorlinks: true
 
 --------------------------------------------------------------------------------
 
-## Introducción y nota histórica  
+## Introducción 
+
+\centering
+\vspace{2cm}
+\hspace{-5cm}
+\includegraphics[scale=0.15]{./Imagenes/logo-odoo.png}
+
+-  Suite de aplicaciones de código abierto para empresas (ERP) que cubre:  
+	*  CRM  
+	* E-comercio  
+	* Contabilidad  
+	* Inventario  
+	* Gestión de proyectos, de recursos humanos  
+	* Campañas de marketing  
+- Fácil de utilizar y totalmente integrado  
+- Escrito en JavaScript y Python. Multiplataforma  
+- Código completo en Github
+
+--------------------------------------------------------------------------------
+
+## Nota histórica
+
+\centering
+\vspace{3cm}
+\hspace{-9.2cm}
+\includegraphics[scale=0.35]{./Imagenes/tabla.png}
+
+- Premio Deloitte por ser la compañía con crecimiento más rápido en Bélgica (crecimiento de 1549% en 5 años). Año 2013.  
+- Nombrada una de las empresas con mayor crecimiento en Europa por Inc. Magazine. Año 2015.  
+
 
 --------------------------------------------------------------------------------
 
