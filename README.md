@@ -8,8 +8,8 @@ Proyecto sobre el RP Odoo
 
 - Diego:
     * Descripción de la instalación.  
-    * Funcionalidad que ofrece.  
+    * Ventajas e inconvenientes encontrados durante la prueba.  
 
 - Nacho:
-    * Ventajas e inconvenientes encontrados durante la prueba.  
+    * Funcionalidad que ofrece.
     * Empresas que lo han implementado.

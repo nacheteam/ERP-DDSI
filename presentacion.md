@@ -56,6 +56,8 @@ colorlinks: true
 
 ## Descripción de la instalación  
 
+
+
 --------------------------------------------------------------------------------
 
 ## Funcionalidad  

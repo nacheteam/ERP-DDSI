@@ -83,3 +83,45 @@ Las soluciones que Odoo ha aportado son:
 - Integra otros sistemas como SAP, CERES y WMS para tener todas las ventajas posibles.  
 - Sincronización especial con WMS para tener control del inventario en tiempo real.  
 - Integración en dos sentidos con SAP para exportar reportes desde Odoo.
+
+### Descripcion de la instalacion
+
+El software Odoo ofrece muchas ventajas a la hora de instalar.
+En primer lugar el programa tiene una interfaz en linea que es completamente funcional y
+desde la que no hace falta instalar el programa en nuestro dispositivo fisico.Ademas de
+esto la suite de Odoo puede tambien instalarse con los gestores de paquetes habituales y
+compilando la fuente directamente.
+
+Tienen soporte para todas las plataformas a modo de ejemplo ilustraremos la instalacion en
+el SO ubuntu.
+
+````
+wget -O - https://nightly.odoo.com/odoo.key | apt-key add -
+echo "deb http://nightly.odoo.com/10.0/nightly/deb/ ./" >> /etc/apt/sources.list.d/odoo.list
+apt-get update && apt-get install odoo
+````
+
+### Funcionalidad que ofrece
+
+Las funcionalidades de la version basica son:
+
+-Chat de empresa
+
+Es un chat donde contactar con los distintos usuarios se pueden crear canales
+para toda la empresa o para subconjuntos de la misma.
+
+-Calendario conjunto
+
+Calendario de acceso a todos los integrantes de la empresa para senalar eventos importantes
+
+-Contactos de empresa
+
+Datos de contacto de empresas y clientes. Es importante destacar que por defecto el programa incluye una gran agenda.
+
+-CRM
+
+Funcionalidad que permite planificar promociones y preveer su impacto.
+
+-Inventario
+
+Aplicacion basica de inventariado.
