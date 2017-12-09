@@ -1,11 +1,11 @@
 ### Ventajas e inconvenientes
 
 Entre sus ventajas destaca el gran numero de distribuciones para las que esta
-destinada la aplicacion. Ademas, su interfaz web es completamente funcional
+destinada la aplicación. Además, su interfaz web es completamente funcional
 lo que resulta muy atractivo a los gestores de empresa. Odoo es un software
-para empresas que no requiere una alta especializacion.Las funcionalidades
-ofrecidas son amplias y cumplen con el estandar de este tipo de software.
-Hay mucha documentacion para el desarrollo de nuevos modulos e interfaces.
+para empresas que no requiere una alta especialización.Las funcionalidades
+ofrecidas son amplias y cumplen con el estándar de este tipo de software.
+Hay mucha documentación para el desarrollo de nuevos módulos e interfaces.
 A los desarrolladores web les gustara saber que en la web oficial se puede
 encontrar un documento muy completo sobre la API.
 

@@ -56,8 +56,23 @@ colorlinks: true
 
 ## Descripción de la instalación  
 
+- En primer lugar se anade la clave
 
+![](./Imagenes/clave.png)
+--------------------------------------------------------------------------------
 
+## Descripción de la instalación  
+
+- A continuacion se anade el repositorio
+
+![](./Imagenes/repositorio.png)
+--------------------------------------------------------------------------------
+
+## Descripción de la instalación  
+
+- Por ultimo dejamos que apt-get haga su magia
+
+![](./Imagenes/apt-get.png)
 --------------------------------------------------------------------------------
 
 ## Funcionalidad  

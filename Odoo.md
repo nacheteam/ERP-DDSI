@@ -9,7 +9,7 @@ El valor único de Odoo es que es simultáneamente fácil de utilizar y está to
 
 ### Reseña histórica
 
-En 2005, Fabiaen Pinckaers, el fundador y actual CEO de Odoo, empezó a desarrollar su primer producto software, TinyERP. Su sueño era que su compañía se convirtiera en un referente en el mundo de la empresa con un innovador producto de código abierto. Tres años después cambió el nombre de su empresa a OpenERP. En 2010, la compañía empezó a crecer rápidamente, pasando a tener más de 100 empleados. Su crecimiento aumentó exponencialmente. Tanto es así que en 2013 ganó el premio Deloitte por ser la compañía con el crecimiento más rápido de Bélgica, con casi un 1549% en 5 años. En 2014, la compañía cambió de estrategia desarrollando nueva tecnología para entrar en nuevos mercados y captar nuevos clientes más allá de los usuarios de ERPs. Como OpenERP ya no era algo exclusivo, volvieron a cambiar el nombre para ofrecer productos más allá de ERP. En mayo de 2014, la empresa pasó a llamarse Odoo, un nombre más versatil y polivalente. Odoo siguió creciendo hasta que en 2015 fue nombrada por Inc. Magazine una de las empresas con un crecimiento más rápido en Europa.
+En 2005, Fabiaen Pinckaers, el fundador y actual CEO de Odoo, empezó a desarrollar su primer producto software, TinyERP. Su sueño era que su compañía se convirtiera en un referente en el mundo de la empresa con un innovador producto de código abierto. Tres años después cambió el nombre de su empresa a OpenERP. En 2010, la compañía empezó a crecer rápidamente, pasando a tener más de 100 empleados. Su crecimiento aumentó exponencialmente. Tanto es así que en 2013 ganó el premio Deloitte por ser la compañía con el crecimiento más rápido de Bélgica, con casi un 1549% en 5 años. En 2014, la compañía cambió de estrategia desarrollando nueva tecnología para entrar en nuevos mercados y captar nuevos clientes más allá de los usuarios de ERPs. Como OpenERP ya no era algo exclusivo, volvieron a cambiar el nombre para ofrecer productos más allá de ERP. En mayo de 2014, la empresa pasó a llamarse Odoo, un nombre más versátil y polivalente. Odoo siguió creciendo hasta que en 2015 fue nombrada por Inc. Magazine una de las empresas con un crecimiento más rápido en Europa.
 
 
 | Nombre del software | Versión | Fecha de lanzamiento | Cambios significativos |
@@ -82,5 +82,35 @@ Las soluciones que Odoo ha aportado son:
 - Odoo ha desarrolladado también un proceso automático de login para los trabajadores.  
 - Integra otros sistemas como SAP, CERES y WMS para tener todas las ventajas posibles.  
 - Sincronización especial con WMS para tener control del inventario en tiempo real.  
-- Integración en dos sentidos con SAP para exportar reportes desde Odoo.
+- Integración en dos sentidos con SAP para exportar reportes desde Odoo.### Descripción de la instalación
 
+El software Odoo ofrece muchas ventajas a la hora de instalar.
+En primer lugar el programa tiene una interfaz en linea que es completamente funcional y
+desde la que no hace falta instalar el programa en nuestro dispositivo físico.Además de
+esto la suite de Odoo puede también instalarse con los gestores de paquetes habituales y
+compilando la fuente directamente.
+
+Tienen soporte para todas las plataformas a modo de ejemplo ilustraremos la instalación en
+el SO ubuntu.
+
+````
+wget -O - https://nightly.odoo.com/odoo.key | apt-key add -
+echo "deb http://nightly.odoo.com/10.0/nightly/deb/ ./" >> /etc/apt/sources.list.d/odoo.list
+apt-get update && apt-get install odoo
+````
+### Ventajas e inconvenientes
+
+Entre sus ventajas destaca el gran numero de distribuciones para las que esta
+destinada la aplicación. Además, su interfaz web es completamente funcional
+lo que resulta muy atractivo a los gestores de empresa. Odoo es un software
+para empresas que no requiere una alta especialización.Las funcionalidades
+ofrecidas son amplias y cumplen con el estándar de este tipo de software.
+Hay mucha documentación para el desarrollo de nuevos módulos e interfaces.
+A los desarrolladores web les gustara saber que en la web oficial se puede
+encontrar un documento muy completo sobre la API.
+
+Un inconveniente es que parte de las funcionalidades son Premium. Hace falta
+una cuenta que se paga cada cierto tiempo. En otro orden de cosas muchas de
+las aplicaciones no dejan lugar a la creatividad. Por lo tanto podemos
+encontrarnos en situaciones donde las soluciones ofrecidas por el software
+no sean las mas adecuadas.
