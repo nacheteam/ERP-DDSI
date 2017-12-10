@@ -11,17 +11,19 @@ El valor único de Odoo es que es simultáneamente fácil de utilizar y está to
 
 En 2005, Fabiaen Pinckaers, el fundador y actual CEO de Odoo, empezó a desarrollar su primer producto software, TinyERP. Su sueño era que su compañía se convirtiera en un referente en el mundo de la empresa con un innovador producto de código abierto. Tres años después cambió el nombre de su empresa a OpenERP. En 2010, la compañía empezó a crecer rápidamente, pasando a tener más de 100 empleados. Su crecimiento aumentó exponencialmente. Tanto es así que en 2013 ganó el premio Deloitte por ser la compañía con el crecimiento más rápido de Bélgica, con casi un 1549% en 5 años. En 2014, la compañía cambió de estrategia desarrollando nueva tecnología para entrar en nuevos mercados y captar nuevos clientes más allá de los usuarios de ERPs. Como OpenERP ya no era algo exclusivo, volvieron a cambiar el nombre para ofrecer productos más allá de ERP. En mayo de 2014, la empresa pasó a llamarse Odoo, un nombre más versátil y polivalente. Odoo siguió creciendo hasta que en 2015 fue nombrada por Inc. Magazine una de las empresas con un crecimiento más rápido en Europa.  
 
+
 +-----------------------+---------------------+------------------------+------------------------------------------------------------------------------------+
 |  Nombre del software  |       Versión       |  Fecha de lanzamiento  |                               Cambios significativos                               |  
-+=======================+=====================+========================+====================================================================================+  
-|        Tiny ERP       |   1.0/2.0/3.0/4.0   |        2005-2006       |                                 Primer lanzamiento                                 |  
-+-----------------------+---------------------+------------------------+------------------------------------------------------------------------------------+
-|        OpenERP        |   5.0/6.0/6.1/7.0   |        2009-2012       |  Primer cliente web/ Primer cliente web Ajax/ Mejora del cliente web y usabilidad  |
++=======================+=====================+========================+====================================================================================+
+|        Tiny ERP       |   1.0/2.0/3.0/4.0   |        2005-2006       |                                 Primer lanzamiento                                 |
 +-----------------------+---------------------+------------------------+------------------------------------------------------------------------------------+  
-|         Odoo          | 8.0/ 9.0/ 10.0/11.0 |        2014-2017       |   Constructor de webs, e-comercio, puntos de venta y                               |
-|                       |                     |                        |   business inteligence/ Odoo Enterprise/ Reforma de características /              |
-|                       |                     |                        |   Migración a Python 3, Reforma de servicios                                       |  
+|        OpenERP        |   5.0/6.0/6.1/7.0   |        2009-2012       |  Primer cliente web/ Primer cliente web Ajax/ Mejora del cliente web y usabilidad  |
 +-----------------------+---------------------+------------------------+------------------------------------------------------------------------------------+
+|         Odoo          | 8.0/ 9.0/ 10.0/11.0 |        2014-2017       |   Constructor de webs, e-comercio, puntos de venta y business inteligence/         |
+|                       |                     |                        |   Odoo Enterprise/ Reforma de características/ Migración a Python 3,               |
+|                       |                     |                        |   Reforma de servicios                                                             |  
++-----------------------+---------------------+------------------------+------------------------------------------------------------------------------------+
+
 ## Funcionalidad de Odoo
 Odoo divide sus funcionalidades en diferentes categorías:  
 
@@ -62,7 +64,8 @@ Odoo divide sus funcionalidades en diferentes categorías:
 Como se puede comprobar el ERP tiene implementado numerosas funcionalidades. El problema que esto puede entrañar es el hecho de que, por intentar abarcar demasiados campos, no se hayan implementado correctamente todos y acaben siendo poco útiles.  
 Hay elementos como por ejemplo las herramientas de marketing que no creo que sean usados por empresas con una cierta relevancia, ya que se encargarán de crear o contratar empresas específicas para estas actividades.  
 Así mismo el creador de sitios web, comercio electrónico, foro y blogs no creo que tengan mucha utilidad, ya que si quieren obtener una solución más profesional se debe escribir el código a mano y no usar plantillas o interfaces drag and drop.  
-Por todo eso parece que el ERP es útil para gestionar una empresa de tamaño pequeño o mediano ya que tiene muchas funcionalidades implementadas de base, pero dejarán de ser útiles en cuanto queramos expandir un poco la empresa y busquemos soluciones más profesionales.## Empresas que utilidan Odoo
+Por todo eso parece que el ERP es útil para gestionar una empresa de tamaño pequeño o mediano ya que tiene muchas funcionalidades implementadas de base, pero dejarán de ser útiles en cuanto queramos expandir un poco la empresa y busquemos soluciones más profesionales.
+## Empresas que utilidan Odoo
 
 ### Toyota
 Toyota Material Handing es un miembro de la compañía Toyota que se encarga de la fabricación de carretillas elevadoras por toda Europa.  
@@ -87,7 +90,8 @@ Las soluciones que Odoo ha aportado son:
 - Odoo ha desarrolladado también un proceso automático de login para los trabajadores.  
 - Integra otros sistemas como SAP, CERES y WMS para tener todas las ventajas posibles.  
 - Sincronización especial con WMS para tener control del inventario en tiempo real.  
-- Integración en dos sentidos con SAP para exportar reportes desde Odoo.###	Descripción de la instalación
+- Integración en dos sentidos con SAP para exportar reportes desde Odoo.
+###	Descripción de la instalación
 
 El software Odoo ofrece muchas ventajas a la hora de instalar.
 En primer lugar el programa tiene una interfaz en linea que es completamente funcional y
@@ -103,6 +107,7 @@ wget -O - https://nightly.odoo.com/odoo.key | sudo apt-key add -
 echo "deb http://nightly.odoo.com/10.0/nightly/deb/ ./" >> /etc/apt/sources.list.d/odoo.list
 apt-get update && apt-get install odoo
 ````
+
 ### Ventajas e inconvenientes
 
 Entre sus ventajas destaca el gran numero de distribuciones para las que esta
