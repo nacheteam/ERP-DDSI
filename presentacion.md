@@ -1,5 +1,6 @@
 ---
 title: Odoo
+author: Ignacio Aguilera, Luis Balderas, Diego Asterio de Zaballa
 subtitle: Desarrollo y Diseño de Sistemas de Información
 date: 11 Diciembre 2017
 lang: es

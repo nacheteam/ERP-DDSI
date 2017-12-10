@@ -3,6 +3,7 @@
 rm Odoo.md
 touch Odoo.md
 echo -e "# Odoo" > Odoo.md
+echo -e "## Ignacio Aguilera, Luis Balderas, Diego Asterio de Zaballa" >> Odoo.md
 cat ./Trabajo/Informacion-ERP.md >> Odoo.md
 echo -e >> Odoo.md
 cat ./Trabajo/funcionalidades.md >> Odoo.md

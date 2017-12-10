@@ -1,4 +1,5 @@
 # Odoo
+## Ignacio Aguilera, Luis Balderas, Diego Asterio de Zaballa
 ## INFORMACIÓN SOBRE ODOO
 
 ### Introducción
