@@ -115,7 +115,7 @@ Las soluciones que Odoo ha aportado son:
 - Sincronización especial con WMS para tener control del inventario en tiempo real.  
 - Integración en dos sentidos con SAP para exportar reportes desde Odoo.  
 
-###	Descripción de la instalación
+##	Descripción de la instalación
 
 El software Odoo ofrece muchas ventajas a la hora de instalarlo.
 En primer lugar el programa tiene una interfaz en linea que es completamente funcional y
