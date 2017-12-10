@@ -16,16 +16,16 @@ En 2005, Fabiaen Pinckaers, el fundador y actual CEO de Odoo, empezó a desarrol
 |  Nombre del software  |  Versión              |  Fecha de lanzamiento  |  Cambios significativos                                  |  
 +=======================+=======================+========================+==========================================================+
 |                       |                       |                        |                                                          |
-|  Tiny ERP             |  1.0/2.0/3.0/4.0      |  2005-2006             |  Primer lanzamiento.                                     |
+|  Tiny ERP             |  1.0/2.0/3.0/4.0      |   2005-2006            |  Primer lanzamiento.                                     |
 |                       |                       |                        |                                                          |
 +-----------------------+-----------------------+------------------------+----------------------------------------------------------+  
 |                       |                       |                        |                                                          |
-|  OpenERP              |  5.0/6.0/6.1/7.0      |  2009-2012             |  Primer cliente web/ Primer cliente web Ajax/            |
+|  OpenERP              |  5.0/6.0/6.1/7.0      |   2009-2012            |  Primer cliente web/ Primer cliente web Ajax/            |
 |                       |                       |                        |  Mejora del cliente web y usabilidad.                    |
 |                       |                       |                        |                                                          |
 +-----------------------+-----------------------+------------------------+----------------------------------------------------------+
 |                       |                       |                        |                                                          |
-|  Odoo                 |  8.0/ 9.0/ 10.0/11.0  |  2014-2017             |  Constructor de webs, e-comercio,                        |
+|  Odoo                 |  8.0/ 9.0/ 10.0/11.0  |   2014-2017            |  Constructor de webs, e-comercio,                        |
 |                       |                       |                        |  puntos de venta y business inteligence/                 |
 |                       |                       |                        |  Odoo Enterprise/ Reforma de características/            |
 |                       |                       |                        |  Migración a Python 3,                                   |

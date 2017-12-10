@@ -23,4 +23,4 @@ Las soluciones que Odoo ha aportado son:
 - Odoo ha desarrolladado también un proceso automático de login para los trabajadores.  
 - Integra otros sistemas como SAP, CERES y WMS para tener todas las ventajas posibles.  
 - Sincronización especial con WMS para tener control del inventario en tiempo real.  
-- Integración en dos sentidos con SAP para exportar reportes desde Odoo.
+- Integración en dos sentidos con SAP para exportar reportes desde Odoo.  
