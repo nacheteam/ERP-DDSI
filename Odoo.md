@@ -7,18 +7,9 @@
 
 El valor único de Odoo es que es simultáneamente fácil de utilizar y está totalmente integrado. Se postula como la alternativa en software libre  SAP ERP y Microsoft Dynamics. Está programado en JavaScript y Python, y es integrable en cualquier sistema operativo.  El código fuente de Odoo está totalmente alojado en Github.  
 
-**Fuentes:**  
-- https://www.odoo.com/es_ES/page/about-us  
-- https://github.com/odoo/odoo/tree/8.0  
-
 ### Reseña histórica
 
 En 2005, Fabiaen Pinckaers, el fundador y actual CEO de Odoo, empezó a desarrollar su primer producto software, TinyERP. Su sueño era que su compañía se convirtiera en un referente en el mundo de la empresa con un innovador producto de código abierto. Tres años después cambió el nombre de su empresa a OpenERP. En 2010, la compañía empezó a crecer rápidamente, pasando a tener más de 100 empleados. Su crecimiento aumentó exponencialmente. Tanto es así que en 2013 ganó el premio Deloitte por ser la compañía con el crecimiento más rápido de Bélgica, con casi un 1549% en 5 años. En 2014, la compañía cambió de estrategia desarrollando nueva tecnología para entrar en nuevos mercados y captar nuevos clientes más allá de los usuarios de ERPs. Como OpenERP ya no era algo exclusivo, volvieron a cambiar el nombre para ofrecer productos más allá de ERP. En mayo de 2014, la empresa pasó a llamarse Odoo, un nombre más versátil y polivalente. Odoo siguió creciendo hasta que en 2015 fue nombrada por Inc. Magazine una de las empresas con un crecimiento más rápido en Europa.  
-
-**Fuentes:**  
-- https://www.odoo.com/es_ES/page/docs  
-- https://en.wikipedia.org/wiki/Odoo  
-- https://www.odoo.com/es_ES/blog/nuestro-blog-5/post/the-odoo-story-56  
 
 \newpage
 
@@ -115,7 +106,7 @@ Las soluciones que Odoo ha aportado son:
 - Sincronización especial con WMS para tener control del inventario en tiempo real.  
 - Integración en dos sentidos con SAP para exportar reportes desde Odoo.  
 
-##	Descripción de la instalación
+###	Descripción de la instalación
 
 El software Odoo ofrece muchas ventajas a la hora de instalarlo.
 En primer lugar el programa tiene una interfaz en linea que es completamente funcional y
@@ -136,10 +127,6 @@ apt-get update && apt-get install odoo
 
 ### Ventajas e inconvenientes
 
-Entre sus ventajas destaca el gran número de distribuciones para las que está destinado el ERP. Además, su interfaz web es completamente funcional lo que resulta muy atractivo a los gestores de empresa.  
+Odoo es un software para empresas que no requiere una alta especialización. Las funcionalidades ofrecidas son amplias y cumplen con el estándar de este tipo de software.Entre sus ventajas destaca el gran número de distribuciones para las que está destinado el ERP. Si no se quiere instalar el software,la version web es completamente funcional. Por esto puede ser muy atractivo para los gestores de empresa.  En cuanto a los desarrolladores que quieran trabajar con esta herramienta cabe destacar que hay mucha documentación para el desarrollo de nuevos módulos e interfaces. A los desarrolladores web les resultará sencillo desarrollar de forma integrada con Odoo gracias a la API oficial y a su extensa documentación.  
 
-Odoo es un software para empresas que no requiere una alta especialización. Las funcionalidades ofrecidas son amplias y cumplen con el estándar de este tipo de software.  
-
-Hay mucha documentación para el desarrollo de nuevos módulos e interfaces. A los desarrolladores web les resultará sencillo desarrollar de forma integrada con Odoo gracias a la API oficial y a su extensa documentación.  
-
-Un inconveniente es que parte de las funcionalidades son Premium. Hace falta una cuenta que se paga cada cierto tiempo. En otro orden de cosas, muchas de las aplicaciones no dejan lugar a la creatividad. Por lo tanto podemos encontrarnos en situaciones donde las soluciones ofrecidas por el software no sean las mas adecuadas.
+Un inconveniente es que parte de las funcionalidades son Premium (Hace falta una cuenta que se paga cada cierto tiempo). En otro orden de cosas, muchas de las aplicaciones no dejan lugar a la creatividad. Por lo tanto podemos encontrarnos en situaciones donde las soluciones ofrecidas por el software no sean las mas adecuadas.
