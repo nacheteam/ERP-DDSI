@@ -72,9 +72,12 @@ colorlinks: true
 
 # Descripción de la instalación  
 
-- Por último dejamos que apt-get haga su magia.
+\centering
+\vspace{4cm}
+\hspace{-5cm}
+\includegraphics[scale=0.2]{./Imagenes/apt-get.png}
 
-![](./Imagenes/apt-get.png)
+- Por último dejamos que apt-get haga su magia.  
 
 --------------------------------------------------------------------------------
 
