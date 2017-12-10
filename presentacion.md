@@ -19,6 +19,7 @@ colorlinks: true
 - Ventajas e inconvenientes del sistema.  
 - Empresas que han implantado Odoo.
 
+
 --------------------------------------------------------------------------------
 
 # Introducción

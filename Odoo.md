@@ -7,9 +7,18 @@
 
 El valor único de Odoo es que es simultáneamente fácil de utilizar y está totalmente integrado. Se postula como la alternativa en software libre  SAP ERP y Microsoft Dynamics. Está programado en JavaScript y Python, y es integrable en cualquier sistema operativo.  El código fuente de Odoo está totalmente alojado en Github.  
 
+**Fuentes:**  
+- https://www.odoo.com/es_ES/page/about-us  
+- https://github.com/odoo/odoo/tree/8.0
+
 ### Reseña histórica
 
 En 2005, Fabiaen Pinckaers, el fundador y actual CEO de Odoo, empezó a desarrollar su primer producto software, TinyERP. Su sueño era que su compañía se convirtiera en un referente en el mundo de la empresa con un innovador producto de código abierto. Tres años después cambió el nombre de su empresa a OpenERP. En 2010, la compañía empezó a crecer rápidamente, pasando a tener más de 100 empleados. Su crecimiento aumentó exponencialmente. Tanto es así que en 2013 ganó el premio Deloitte por ser la compañía con el crecimiento más rápido de Bélgica, con casi un 1549% en 5 años. En 2014, la compañía cambió de estrategia desarrollando nueva tecnología para entrar en nuevos mercados y captar nuevos clientes más allá de los usuarios de ERPs. Como OpenERP ya no era algo exclusivo, volvieron a cambiar el nombre para ofrecer productos más allá de ERP. En mayo de 2014, la empresa pasó a llamarse Odoo, un nombre más versátil y polivalente. Odoo siguió creciendo hasta que en 2015 fue nombrada por Inc. Magazine una de las empresas con un crecimiento más rápido en Europa.  
+
+**Fuentes:**  
+- https://www.odoo.com/es_ES/page/docs  
+- https://en.wikipedia.org/wiki/Odoo  
+- https://www.odoo.com/es_ES/blog/nuestro-blog-5/post/the-odoo-story-56  
 
 \newpage
 
