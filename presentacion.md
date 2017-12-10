@@ -24,7 +24,7 @@ colorlinks: true
 # Introducción
 
 \centering
-\vspace{2cm}
+\vspace{1cm}
 \hspace{-5cm}
 \includegraphics[scale=0.15]{./Imagenes/logo-odoo.png}
 
@@ -39,17 +39,27 @@ colorlinks: true
 - Escrito en JavaScript y Python. Multiplataforma  
 - Código completo en Github
 
+**Fuentes:**  
+- https://www.odoo.com/es_ES/page/about-us  
+- https://github.com/odoo/odoo/tree/8.0
+
+
 --------------------------------------------------------------------------------
 
 # Nota histórica
 
 \centering
-\vspace{3cm}
+\vspace{2.7cm}
 \hspace{-9.2cm}
 \includegraphics[scale=0.35]{./Imagenes/tabla.png}
 
 - Premio Deloitte por ser la compañía con crecimiento más rápido en Bélgica (crecimiento de 1549% en 5 años). Año 2013.  
 - Nombrada una de las empresas con mayor crecimiento en Europa por Inc. Magazine. Año 2015.  
+
+**Fuentes:**  
+- https://www.odoo.com/es_ES/page/docs  
+- https://en.wikipedia.org/wiki/Odoo  
+- https://www.odoo.com/es_ES/blog/nuestro-blog-5/post/the-odoo-story-56
 
 
 --------------------------------------------------------------------------------
